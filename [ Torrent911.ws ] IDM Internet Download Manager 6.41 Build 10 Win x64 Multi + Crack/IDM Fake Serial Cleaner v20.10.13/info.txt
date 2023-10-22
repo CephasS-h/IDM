@@ -1,0 +1,15 @@
+
+IDM Fake Serial Cleaner v20.10.13.bat
+
+
+Lorsque  vous lancez le IDM :
+
+1.Vous avez le message qu'il faut vous inscrire et activer
+pour utiliser l'IDM
+
+ou
+
+2.Vous avez le message que votre seriel n'est pas valide
+
+Quitter l'application et lancer IDM Fake Serial Cleaner v20.10.13.bat, 
+laissez faire son travail (nettoyer les restes de IDM dans la registre Windows) puis après il faut récraquer le IDM de nouveau avec les trois fichiers de dossier "crack" 
